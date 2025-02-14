@@ -1,6 +1,6 @@
 # ai
 
-Checkout [notes](/notes/Index.md) for documentation.
+Checkout [notes](/notes/index.md) for documentation.
 
 
 ## Working with submodules in git
