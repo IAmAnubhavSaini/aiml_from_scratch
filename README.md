@@ -1,4 +1,6 @@
-# ai
+# AI/ML from scratch
+
+[YT](https://www.youtube.com/@aiml_from_scratch)
 
 Checkout [notes](/notes/index.md) for documentation.
 
