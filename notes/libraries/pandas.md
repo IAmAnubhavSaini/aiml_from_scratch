@@ -38,7 +38,22 @@ print(type(s))
 - One dimensional labelled #data-structure
   - can hold any type of data
 
+
+## Normazlize
+
+```python
+df = pd.DataFrame({'A': [-4, -3, -2, -1 ,0, 1, 2, 3, 4]})
+max_val = max(df['A'])
+print("maximum in df[A]")
+print(max_val)
+
+normalized = df / max_val
+print("normalized data_frame by maximum value in A")
+print(normalized)
+```
+
 ---
 
 1. https://pandas.pydata.org/
    1. https://pandas.pydata.org/docs/user_guide/10min.html
+   2. Maximum value in a dataframe: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.max.html

@@ -27,6 +27,11 @@ git submodule init
 4. Probability Theory
 
 
+## Video music
+
+1. https://music.youtube.com/watch?v=iMnIcmq3YEw
+2. Blanket app
+
 ## License and Copyright
 
 License is extended to this REPO. 
