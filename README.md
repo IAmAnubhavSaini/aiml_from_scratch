@@ -17,6 +17,14 @@ git submodule init
 
 ```
 
+## Requirements for AI/ML
+
+1. Python Programming Language
+2. Calculus
+3. Linear Algebra
+4. Probability Theory
+
+
 ## License and Copyright
 
 License is extended to this REPO. 

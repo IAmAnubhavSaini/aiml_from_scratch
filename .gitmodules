@@ -1,3 +1,6 @@
 [submodule "lionelmessi6410-Neural-Networks-from-Scratch"]
 	path = lionelmessi6410-Neural-Networks-from-Scratch
 	url = https://github.com/IAmAnubhavSaini/lionelmessi6410-Neural-Networks-from-Scratch
+[submodule "src/lionelmessi6410-Neural-Networks-from-Scratch"]
+	path = src/lionelmessi6410-Neural-Networks-from-Scratch
+	url = https://github.com/IAmAnubhavSaini/lionelmessi6410-Neural-Networks-from-Scratch
