@@ -32,6 +32,8 @@ print(type(s))
 - Two dimensional #data-structure
   - 2d array
   - table with row/col
+  - #error: All arrays must be of the same length
+  - #error: Mixing dicts with non-Series may lead to ambiguous ordering.
 
 ## Series
 
